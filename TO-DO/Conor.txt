@@ -1,0 +1,10 @@
+TO-DO 21-1-15
+
+CL-dmscduck Req:
+
+1)	Fix imgs including the first being a Frame from the stream  
+2)	Remove the "My Work" tab
+3)	Make an <iframe> Stream play-out frame http://i.gyazo.com/98e047b93bf08de6dc1ee7ce9c94a788.png Twich embed's 
+	DMSCtv	 : http://pastebin.com/0A7d65AH
+	DSMCduck : http://pastebin.com/n5NgU8iU
+	AliceMist: http://pastebin.com/4pd5FN8V
