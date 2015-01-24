@@ -713,8 +713,8 @@
 /*********************************************************************************/
 
 	#intro {
-		background: url('images/holibad.jpg');
-		background-size: cover;
+		background: url('images/holibad.jpg'), url('../images/holibad.jpg');
+		background-size: 256px 256px, cover;
 		background-attachment: inherit;
 		background-position: center;
 		background-repeat: no-repeat;
