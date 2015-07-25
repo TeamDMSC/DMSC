@@ -7,6 +7,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7388,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/DMSC-New_Site/.gitignore",
+			"settings":
+			{
+				"buffer_size": 609,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -32,6 +48,7 @@
 	},
 	"file_history":
 	[
+		"/D/DMSC-New_Site/.gitignore",
 		"//192.168.1.100/www/.htaccess",
 		"//192.168.1.100/www/.htpasswd",
 		"//192.168.1.100/www/html/js/init.js",
@@ -42,7 +59,16 @@
 		"//192.168.1.100/server/untitled folder/Raccoon Den.html",
 		"//192.168.1.100/server/untitled folder/LICENSE.txt",
 		"//192.168.1.100/server/sauerbraten/server-init.cfg",
-		
+		"/P/What.CD Toolbox 6 for Windows/IRC/HexChat/Scripting Support for HexChat.txt",
+		"/C/Users/Conor/AppData/Local/Temp/Temp1_Ryan_TheCoon's Snatches.zip/Summary.txt",
+		"/E/RP/Logs-From Lucas/Logs/3 (Ryan) [Dom].txt",
+		"/E/RP/Logs-From Lucas/Logs/._2 (Ramandun _ Ryan.txt",
+		"/E/RP/Logs-From Lucas/Logs/2 (Ramandun _ Ryan.txt",
+		"/E/RP/Freeze_04-04-15.txt",
+		"/E/RP/Lucas_24-2-15.txt",
+		"/P/What.CD Toolbox 6 for Windows/Info.txt",
+		"/C/Users/Conor/AppData/Local/Temp/Temp1_wakemeonlan.zip/readme.txt",
+		"/P/What.CD Toolbox 6 for Windows/E-Books/Calibre/readme.txt"
 	],
 	"find":
 	{
@@ -77,8 +103,62 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 7388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/DMSC-New_Site/.gitignore",
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -132,16 +212,20 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"//192.168.1.100/www/html/Raccoon_Den.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 212.0,
+	"side_bar_width": 271.0,
 	"status_bar_visible": true
 }
